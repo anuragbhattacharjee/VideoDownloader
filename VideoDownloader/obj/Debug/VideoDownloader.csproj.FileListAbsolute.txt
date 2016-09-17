@@ -1,0 +1,8 @@
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\bin\Debug\VideoDownloader.exe.config
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\bin\Debug\VideoDownloader.exe
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\bin\Debug\VideoDownloader.pdb
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\obj\Debug\VideoDownloader.csprojResolveAssemblyReference.cache
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\obj\Debug\VideoDownloader.Properties.Resources.resources
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\obj\Debug\VideoDownloader.csproj.GenerateResource.Cache
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\obj\Debug\VideoDownloader.exe
+F:\Workspace\GitHub Projects\VideoDownloader\VideoDownloader\VideoDownloader\obj\Debug\VideoDownloader.pdb
